@@ -17,8 +17,6 @@ Follow these steps to set up the project:
 
 git clone https://github.com/simrat12/weather_betting_app
 
-markdown
-Copy code
 
 2. Install the dependencies:
 
